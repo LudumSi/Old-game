@@ -1,0 +1,58 @@
+"a" = (/turf/floor/natural/grass,/area/outdoors)
+"b" = (/obj/decor/rocks,/turf/floor/natural/grass,/area/outdoors)
+"c" = (/obj/decor/flowers,/turf/floor/natural/grass,/area/outdoors)
+"d" = (/obj/decor/grass,/turf/floor/natural/grass,/area/outdoors)
+"e" = (/obj/items/materials/planks,/turf/floor/natural/grass,/area/outdoors)
+"f" = (/turf/wall/brick,/area/outdoors)
+"g" = (/obj/machines/window/brick,/turf/floor/manufactured/planks,/area/outdoors)
+"h" = (/turf/wall/stainedglass,/area/outdoors)
+"i" = (/turf/floor/manufactured/cobbles,/area/outdoors)
+"j" = (/obj/decor/grass,/turf/floor/natural/dirt,/area/outdoors)
+"k" = (/obj/items/torch,/turf/floor/manufactured/planks,/area/indoors)
+"l" = (/turf/floor/manufactured/planks,/area/indoors)
+"m" = (/obj/machines/furniture/box,/turf/floor/manufactured/planks,/area/indoors)
+"n" = (/obj/machines/statue{name = "statue of Shadowizard23"},/turf/floor/manufactured/planks,/area/indoors)
+"o" = (/turf/wall/brick/secret,/area/outdoors)
+"p" = (/obj/machines/furniture/desk,/obj/items/rubber_ball,/turf/floor/manufactured/planks,/area/indoors)
+"q" = (/obj/machines/doors/wood/locked,/turf/wall/wooden,/area/outdoors)
+"r" = (/obj/machines/furniture/desk,/obj/items/records,/turf/floor/manufactured/planks,/area/indoors)
+"s" = (/obj/machines/pillar,/turf/floor/manufactured/planks,/area/indoors)
+"t" = (/obj/machines/sign,/turf/wall/brick,/area/outdoors)
+"u" = (/obj/machines/statue{name = "statue of Littlethomcat"},/turf/floor/manufactured/cobbles,/area/outdoors)
+"v" = (/obj/machines/furniture/desk,/turf/floor/manufactured/planks,/area/indoors)
+"w" = (/obj/machines/doors/wood{lock = 1; lockable = 1; password = "dickbutt"},/turf/floor/manufactured/planks,/area/outdoors)
+"x" = (/obj/machines/window,/turf/floor/manufactured/planks,/area/outdoors)
+"y" = (/obj/machines/doors/wood/locked,/turf/floor/manufactured/planks,/area/outdoors)
+"z" = (/obj/machines/furniture/box{contents = newlist(/obj/items/materials/planks,/turf/floor/manufactured/planks,/obj/items/materials/planks,/obj/items/materials/planks,/obj/items/materials/planks,/obj/items/materials/planks,/obj/items/materials/planks,/obj/items/materials/planks,/obj/items/materials/planks,/obj/items/materials/planks,/obj/items/materials/planks,/obj/items/materials/planks,/obj/items/materials/planks,/obj/items/materials/planks,/obj/items/materials/planks,/obj/items/materials/planks,/obj/items/materials/planks)},/turf/floor/manufactured/planks,/area/outdoors)
+"A" = (/turf/floor/manufactured/planks,/area/outdoors)
+"B" = (/obj/machines/sign{name = "Temple of Shadowizard"},/turf/wall/brick,/area/outdoors)
+"C" = (/obj/machines/doors/wood,/turf/floor/manufactured/planks,/area/outdoors)
+"D" = (/obj/machines/furniture/desk,/turf/floor/manufactured/planks,/area/outdoors)
+
+(1,1,1) = {"
+aaaaaaaaaabaaaaaaaaaaacaa
+adaaeacaaaaaaabaaaadaaaaa
+aaaeeadaaaaaacaaaaaaabaaa
+fgffgfhhhhhfdafffffijjjjj
+fklkmfklnlkoaafpllqijiiij
+flrllfslllsfaafllltijiuij
+flvllwlllllfaafmlkgijiiij
+flvllxklllkfaafffffijjjjj
+flvlkfslllsfaafpllyijjjjj
+fklllflllllfaafllltijjjjj
+fgffgfklllkfcafmlkgijjjjj
+aaaaaafslsfaaafffffijjjjj
+aabaacfklkfaaafpllyijjjjj
+aaaaaaflllfdaafllltijjjjj
+daadaafslsfaaafmlkgijjjjj
+aaaaaaflllfaaafffffijjjjj
+aaaaaafklkfaaafpllyijjjjj
+aaacaaaflfeeabfllltijjjjj
+aaaaaaaflfeaaafmlkgijjjjj
+aaaaaaaflfadaafffffijjjjj
+adaaaadflfaaaafzAAfijjjjj
+aaaaaaaBCfabaafDDAfijjjjj
+aaaadaaaiaaaaatAAAfijjjjj
+abaaaaaaiiiiiiiiiiiijjjjj
+aaaaaaaaaaaaaaaaaaaaaaaaa
+"}

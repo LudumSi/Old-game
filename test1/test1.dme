@@ -1,0 +1,61 @@
+// DM Environment file for test1.dme.
+// All manual changes should be made outside the BEGIN_ and END_ blocks.
+// New source code should be placed in .dm files: choose File/New --> Code File.
+
+// BEGIN_INTERNALS
+// END_INTERNALS
+
+// BEGIN_FILE_DIR
+#define FILE_DIR .
+// END_FILE_DIR
+
+// BEGIN_PREFERENCES
+// END_PREFERENCES
+
+// BEGIN_INCLUDE
+#include "Multilayer.dmm"
+#include "Style.dms"
+#include "code\admin.dm"
+#include "code\atom.dm"
+#include "code\buttons.dm"
+#include "code\client.dm"
+#include "code\movable.dm"
+#include "code\README.dm"
+#include "code\status effects.dm"
+#include "code\world.dm"
+#include "code\areas\areas.dm"
+#include "code\areas\overworld.dm"
+#include "code\areas\underground.dm"
+#include "code\mobs\ghosts.dm"
+#include "code\mobs\mob.dm"
+#include "code\mobs\player.dm"
+#include "code\mobs\spirit.dm"
+#include "code\objects\decor.dm"
+#include "code\objects\decorgen.dm"
+#include "code\objects\objects.dm"
+#include "code\objects\items\books.dm"
+#include "code\objects\items\equipment.dm"
+#include "code\objects\items\healing.dm"
+#include "code\objects\items\herbs.dm"
+#include "code\objects\items\items.dm"
+#include "code\objects\items\itemstorage.dm"
+#include "code\objects\items\materials.dm"
+#include "code\objects\items\planks.dm"
+#include "code\objects\items\seeds.dm"
+#include "code\objects\items\tools.dm"
+#include "code\objects\machines\chairs.dm"
+#include "code\objects\machines\containers.dm"
+#include "code\objects\machines\corpse.dm"
+#include "code\objects\machines\crops.dm"
+#include "code\objects\machines\doors.dm"
+#include "code\objects\machines\halfbuilt.dm"
+#include "code\objects\machines\ladder.dm"
+#include "code\objects\machines\machines.dm"
+#include "code\objects\machines\tables.dm"
+#include "code\objects\machines\vending.dm"
+#include "code\objects\machines\windows.dm"
+#include "code\turfs\basicturf.dm"
+#include "code\turfs\dirt.dm"
+#include "code\turfs\turf.dm"
+// END_INCLUDE
+

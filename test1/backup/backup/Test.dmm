@@ -1,0 +1,40 @@
+"a" = (/turf/wall/brick,/area)
+"b" = (/turf/floor/natural/grass,/area)
+"c" = (/turf/floor/natural/grass,/area/dark)
+"d" = (/obj/items/tools/lighting/torch,/turf/floor/natural/grass,/area/dark)
+"e" = (/obj/doors/wood,/turf/floor/natural/grass,/area)
+"f" = (/obj/doors/wood,/turf/floor/natural/grass,/area/basic)
+"g" = (/obj/admin/start,/turf/floor/natural/grass,/area/dark)
+
+(1,1,1) = {"
+aaaaaaaaaaaaaaaaaaaaabbaaabaaa
+acccdacccdacccdacccdabbaabbbaa
+accccaccccaccccaccccabbabbabaa
+accccaccccaccccaccccabbababbbb
+adcccadcccadcccadcccabbababaab
+aaaaeaaaaeaaaaeaaaacabbabaaabb
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbba
+bbbbbbbbbbbbbbbbbbbbbbbaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaabbbbbbbb
+adcccccdccccccdcccccbabbbbbbbb
+acccccccccccccccccccdabbbbbbbb
+accccccccccccccccccccfbbbeeebb
+adcccccdccgcccdccccccfbbbbbbbb
+accccccccccccccccccccfbbbbbbbb
+acccccccccccccccccccdabbbbbbbb
+adcccccdccccccdccccccabbbbbbbb
+aaaaaaaaaaaaaaaaaaaaaabbbbbbbb
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+bbbabbbbabbbabbbabbabbabbbbbbb
+bbbabbbabababbbababaababbbbbbb
+bbbabbbabababbbaaababaabbbbbbb
+bbbabbbabababababababbabbbbbbb
+bbbaaabbabbbabbabababbabbbbbbb
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+"}

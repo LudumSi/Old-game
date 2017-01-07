@@ -1,0 +1,81 @@
+"a" = (/turf/wall/brick,/area)
+"b" = (/turf/floor/natural/grass,/area)
+"c" = (/turf/floor/natural/dirt,/area)
+"d" = (/obj/decor/rocks,/turf/floor/natural/grass,/area)
+"e" = (/obj/decor/grass,/turf/floor/natural/grass,/area)
+"f" = (/obj/decor/flowers,/turf/floor/natural/grass,/area)
+"g" = (/obj/machines/sign{desc = "Shh... secret"},/turf/wall/brick,/area)
+"h" = (/turf/wall/brick/secret,/area)
+"i" = (/obj/items/torch,/turf/floor/manufactured/planks,/area/dark)
+"j" = (/turf/floor/manufactured/planks,/area/dark)
+"k" = (/obj/machines/doors/closet,/turf/floor/manufactured/planks,/area/dark)
+"l" = (/obj/decor/flowers,/turf/floor/natural/dirt,/area)
+"m" = (/obj/items/torch{icon_state = "torchout"; luminosity = 0},/turf/floor/manufactured/planks,/area/dark)
+"n" = (/mob/player{desc = "Holy shit!"; name = "corpse"},/turf/floor/manufactured/planks,/area/dark)
+"o" = (/obj/machine/window,/turf/floor/natural/grass,/area)
+"p" = (/turf/wall/brick/secret,/area/basic)
+"q" = (/turf/wall/brick,/area/basic)
+"r" = (/obj/decor/grass,/turf/floor/natural/dirt,/area)
+"s" = (/obj/machines/sign,/turf/wall/brick,/area)
+"t" = (/obj/machines/doors/wood/locked,/turf/floor/manufactured/planks,/area)
+"u" = (/obj/machines/pillar,/turf/floor/manufactured/planks,/area/dark)
+"v" = (/turf/wall/brick,/area/dark)
+"w" = (/obj/machines/doors/wood,/turf/floor/manufactured/planks,/area)
+"x" = (/turf/wall/stainedglass,/area)
+"y" = (/obj/items/rubber_ball,/turf/floor/manufactured/planks,/area/dark)
+"z" = (/obj/machines/statue{desc = "A statue of Shadowizard23, the allfather"; luminosity = 1; name = "divine statue"},/turf/floor/manufactured/planks,/area/dark)
+"A" = (/obj/machines/pillar,/turf/floor/manufactured/planks,/area/basic)
+"B" = (/obj/machines/doors/closet,/turf/floor/manufactured/planks,/area/basic)
+"C" = (/obj/machines/sign{desc = "Mayor's office"},/turf/wall/brick,/area/basic)
+"D" = (/obj/machines/doors/wood/locked{password = "frenchfrog"},/turf/floor/manufactured/planks,/area/basic)
+"E" = (/obj/machines/furniture/desk,/obj/items/records,/turf/floor/manufactured/planks,/area/dark)
+"F" = (/obj/machines/statue{desc = "Promise kept"; name = "statue of Littlethomcat"},/turf/floor/natural/grass,/area)
+"G" = (/obj/machines/sign{desc = "end"},/turf/wall/brick,/area)
+"H" = (/obj/machines/sign{desc = "start"},/turf/wall/brick,/area)
+"I" = (/obj/machines/doors/wood,/turf/floor/natural/grass,/area)
+"J" = (/obj/machines/sign{desc = "Jakinov family farm"},/turf/wall/brick,/area)
+"K" = (/obj/decor/grass{desc = "Wait a minute... is this weed?"},/turf/floor/natural/dirt,/area)
+"L" = (/obj/machines/statue{desc = "A statue of your mother. She is as ugly as thee backside of a donkey"; name = "statue of Your Mom"},/turf/floor/natural/grass,/area)
+
+(1,1,1) = {"
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+abbcabbbbbbbbbdbbbbbbbbbbbbbbebbbbbbbbba
+abbbabaaaaaaaaaaabbebbbbaaaaaaaaaabbbfba
+gbcbhfaijjkjaijjalbbbbbbajjjjjjmnabebbba
+aebeabajjjaaajjjolbbbbebapqqqqqqqabbbbba
+abecabajjiajkjjialbdbbbbajjjjjjjjabfbbba
+arbbabastaaaastaabbbbbbbajujujujvabbbeba
+abbbabbbbbbbbbbbbbbbbbbbwjijijijixbbbbba
+acbbabbbbbebbbbbbbbbbbbbwjjyyyjjzxbbbbba
+acbeabbbbbbbbbbbbbbbbdbbwjijijijixbbbbba
+aebbabastaaaastaabbbbbbbajAjAjAjqabbbbba
+abbcabaijjkjaijjalbbbbbbajjjjjjjjabebbba
+abebabajjjaaajjjolbbbbbbaBqqqqqqBabbbbba
+abbeabajjiajkjjialbbbbbbajijjjjijabbbbba
+acbbabaaoaaaaaoaabbbbbbbaqqCDDqqqabbbbba
+abebabblllllllllbbbbbebbblaijjialbbbbbba
+abbbabbbbbbbbbbbbbbbbbbbblojjjjolbbbfbba
+aebbabbbbbbbbbbbbbbbbbbbblaijjialbbbbdba
+abcbabbbbbbbbbbbbbbbbfbbblaEjjjalbbbbbba
+abbeabbbbbbbbbbbebbbbbbbblojjjjolbbbbbba
+abebabbbbbdddbbbbbbbbbbbblaijjialbbbbbba
+abccabbbbbdFdbbbbbbbbbbbblaoaaoalbbbfbba
+abcbabbebbdddbbbbbbbbbbbbllllllllbbbbbba
+aebbabbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbba
+abebabbbbbbbbfbbbbbbbbbbbaaaaaaaaaaaGbaa
+acbbabbbbbbbbbbbbbbbbebbbbbbbbbabbbbhbba
+abcbabbbbbbbbbbbebbbbbbbbHbaaababaaaaaaa
+abbcabbbbebbdbbbbbbbbbbbbababbbababbbbba
+abbeabbbbbbbbbbbbbbbbbbbbababaaababababa
+aecbabbbbbbbbbbbbbbbbfbbbabababhbaaababa
+abbbabbbbbbbbbbbbbbbbbbbbabababhbbbbbaba
+abebabbbbbbbbbbbbbbbbbbbbababaaaaaabaaba
+abbrarrrrrrrrrrrrraaIJaabababbbbbbababba
+abcbarrrrrrrrrrrrroijjiababaaaaaabababaa
+acbearrrrrrrrrrrrrajjjjababbbbbbbbababaa
+abcbarrrKrrrrrrrrroijjiababaaaaaaaabbbaa
+abecarrrrrrrrrrrrrajjjjabababbbbaaaaabaa
+aecbarrrrrrrrrrrrrojjjjababbbaabbbaaabaa
+abLbarrrrrrrrrrrrraijjiababhhhhhhbbbbbba
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+"}
